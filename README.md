@@ -68,3 +68,4 @@ Availability depends on the external public API.
 ❤️ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+![alt text](https://github.com/riskimuhamad3829-blip/Claudefree-by-Riski/blob/c9ee4a5283ba2fba4937b963670f8aed550ab254/Screenshot_20260627-212904.jpg?raw=true)
